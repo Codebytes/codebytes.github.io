@@ -23,6 +23,7 @@ twitter_username: chris_l_ayers
 github_username:  codebytes
 
 # Build settings
+highlighter: rouge
 markdown: kramdown
 theme: minima
 plugins:
